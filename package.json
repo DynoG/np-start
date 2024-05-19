@@ -1,0 +1,14 @@
+{
+  "name": "np-start",
+  "version": "1.0.0",
+  "description": "boilerplate for frontend showcase",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass sass/main.scss public/styles.css -w"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.77.2"
+  }
+}
